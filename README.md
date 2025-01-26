@@ -4,6 +4,10 @@ _A minimalist portal to NASA's Astronomy Picture of the Day (APOD), wrapped in c
 
 ---
 
+![AnonVerse-ezgif com-optimize](https://github.com/user-attachments/assets/ecf0e2e0-d449-42d5-832f-618e3bbf7d57)
+
+---
+
 ## ✨ Features
 
 - 🌑 Dark futuristic UI with neon accents  
