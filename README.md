@@ -4,7 +4,8 @@ _A minimalist portal to NASA's Astronomy Picture of the Day (APOD), wrapped in c
 
 ---
 
-![AnonVerse-ezgif com-optimize](https://github.com/user-attachments/assets/ecf0e2e0-d449-42d5-832f-618e3bbf7d57)
+![AnonVerse-ezgif com-optimize (1)](https://github.com/user-attachments/assets/0e0c5907-436f-43ad-94c6-af26d187c236)
+
 
 ---
 
@@ -29,19 +30,28 @@ _A minimalist portal to NASA's Astronomy Picture of the Day (APOD), wrapped in c
    ```bash
    const API_KEY = 'YOUR_KEY_HERE';
    ```
+---
 4. Open index.html in a browser
-   
-   ---
-## 🚀 Usage
-Click "Unmask the Cosmos" to explore random cosmic wonders from NASA's archive.
-Toggle the music button for ambient space soundscapes.
 
 ---
-🔑 API Key Note
+## 🔑 API Key Note
 This project uses NASA's public APOD API with client-side keys.
 
 ---
-📜 License
+ ## 📱 Contact
+
+If you have any questions, suggestions, or feedback, feel free to reach out:
+
+- **Email**: [sidmahajan47@gmail.com](mailto:sidmahajan47@gmail.com)
+- **GitHub**: [sidmahajan47](https://github.com/sidmahajan47)
+- **LinkedIn**: [Siddhesh Mahajan](https://www.linkedin.com/in/siddheshmahajan47/)
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
+
+---
 
 Made with 🚀 by [Siddhesh Mahajan](https://www.linkedin.com/in/siddheshmahajan47/) · Powered by [NASA Open APIs](https://api.nasa.gov/)
 
